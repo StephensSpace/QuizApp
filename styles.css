@@ -8,3 +8,33 @@
     background-color: aqua !important;
 
 }
+
+.questionFooter {
+    border-top: 1px solid rgba(0, 0,0,0.25);
+    display: flex;
+    justify-content: space-between;
+}
+
+.quizCard {
+    width: 30rem;
+}
+
+.btn-outline-success {
+    margin-top: 14px;
+}
+
+.questionCount {
+    display: flex;
+    align-items: center;
+    width: 100px;
+    justify-content: space-evenly;
+}
+
+.answerCard:hover {
+    cursor: pointer;
+    background-color:  rgba(0, 0,0,0.13);
+}
+
+.bg-success, .bg-danger {
+    color: white !important;
+}
