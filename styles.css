@@ -38,3 +38,8 @@
 .bg-success, .bg-danger {
     color: white !important;
 }
+
+.endCardFooter {
+    display: flex;
+    justify-content: center;
+}
